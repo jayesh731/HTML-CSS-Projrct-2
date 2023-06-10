@@ -1,1 +1,1 @@
-# HTML-CSS-Projrct-2
+# HTML-CSS-Project-2
